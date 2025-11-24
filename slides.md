@@ -40,6 +40,7 @@ h1 {
 }
 </style>
 
+<!-- _class: lead -->
 # Welcome to My Marp Presentation  
 ### Email: **23f3003273@ds.study.iitm.ac.in**
 
@@ -52,7 +53,7 @@ This slide uses:
 - ✔ Custom theme variables  
 - ✔ Custom CSS classes  
 - ✔ Pagination  
-- ✔ Marp directives  
+- ✔ **Marp directive (`_class: lead`) included**  
 
 Here is a highlighted phrase:
 
