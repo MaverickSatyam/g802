@@ -60,11 +60,11 @@ Here is a highlighted phrase:
 
 ---
 
-<!--
+
 backgroundImage: url('https://unsplash.com/photos/silhouette-photo-of-man-on-cliff-during-sunset-_6HzPU9Hyfg?w=1600')
 backgroundSize: cover
 backgroundColor: black
--->
+
 
 # Background Image Slide  
 ### ✔ This slide now has a valid background image.
