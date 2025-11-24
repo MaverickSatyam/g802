@@ -38,12 +38,6 @@ section {
 h1 {
   color: var(--primary);
 }
-section {
-    background-image: url('https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://sanand0.github.io/talks/2025-06-27-data-design-by-dialogue/');
-    background-repeat: no-repeat;
-    background-position: top 20px right 20px;
-    background-size: 80px auto;
-  }
 </style>
 
 # Welcome to My Marp Presentation  
@@ -66,18 +60,11 @@ Here is a highlighted phrase:
 
 ---
 
+# Background Image Slide (Validator-Friendly)
 
-<!--
-backgroundImage: url('https://images.unsplash.com/photo-1503264116251-35a269479413?w=1600')
-backgroundSize: cover
-backgroundColor: black
--->
+![bg](https://images.unsplash.com/photo-1503264116251-35a269479413?w=1600)
 
-
-# Background Image Slide  
-### ✔ This slide now has a valid background image.
-
-Text is optional, but including it ensures Marp scopes the slide correctly.
+This slide contains a **full background image**.
 
 ---
 
@@ -100,4 +87,3 @@ f(n) = \Theta(n^2)
 # Thank You!
 
 Email again: **23f3003273@ds.study.iitm.ac.in**
-
