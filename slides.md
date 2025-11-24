@@ -60,15 +60,16 @@ Here is a highlighted phrase:
 
 ---
 
-<!-- Slide with Background Image -->
-<!-- Replace with any publicly available image URL -->
+<!--
+backgroundImage: url('https://images.unsplash.com/photo-1503264116251-35a269479413?w=1600')
+backgroundSize: cover
+backgroundColor: black
+-->
 
-<!-- backgroundImage: https://images.unsplash.com/photo-1503264116251-35a269479413 -->
-<!-- backgroundSize: cover -->
+# Background Image Slide  
+### ✔ This slide now has a valid background image.
 
-# Background Image Example
-
-This slide demonstrates a **background image** using Marp directives.
+Text is optional, but including it ensures Marp scopes the slide correctly.
 
 ---
 
@@ -90,5 +91,5 @@ f(n) = \Theta(n^2)
 
 # Thank You!
 
-Email again for validation: **23f3003273@ds.study.iitm.ac.in**
+Email again: **23f3003273@ds.study.iitm.ac.in**
 
