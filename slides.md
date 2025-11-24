@@ -38,6 +38,12 @@ section {
 h1 {
   color: var(--primary);
 }
+section {
+    background-image: url('https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://sanand0.github.io/talks/2025-06-27-data-design-by-dialogue/');
+    background-repeat: no-repeat;
+    background-position: top 20px right 20px;
+    background-size: 80px auto;
+  }
 </style>
 
 # Welcome to My Marp Presentation  
